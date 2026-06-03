@@ -1,5 +1,7 @@
 <?php
 
+namespace oop2\level1\exercise2;
+
 abstract class Shape {
   private string $name;
 

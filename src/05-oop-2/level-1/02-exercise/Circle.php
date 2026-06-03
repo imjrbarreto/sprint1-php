@@ -1,6 +1,7 @@
 <?php
 
 require_once "Shape.php";
+use oop2\level1\exercise2\Shape;
 
 class Circle extends Shape {
   private float $radius;
